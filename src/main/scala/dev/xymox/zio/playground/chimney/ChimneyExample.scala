@@ -3,8 +3,8 @@ package dev.xymox.zio.playground.chimney
 import dev.xymox.zio.playground.optics.Item
 import dev.xymox.zio.playground.quill.repository.ItemRecord
 import io.scalaland.chimney.dsl._
-import zio._
-import zio.console._
+import zio.*
+import zio.console.*
 
 import java.time.Instant
 

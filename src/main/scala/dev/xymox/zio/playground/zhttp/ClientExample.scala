@@ -7,7 +7,6 @@ import zhttp.http.HttpData.CompleteData
 import zhttp.http._
 import zhttp.service.{ChannelFactory, Client, EventLoopGroup}
 import zio._
-import zio.console._
 import zio.json._
 
 object ClientExample extends App {
